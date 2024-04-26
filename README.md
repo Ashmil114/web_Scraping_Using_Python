@@ -15,7 +15,7 @@ https://github.com/Ashmil114/web_Scraping_Using_Python.git
 2.Install the required Python packages:
 
 ```bash
-pip install beautifulsoup4 requests 
+pip install beautifulsoup4 
 ```
 3.Open main.py in your preferred text editor and run main.py
 ```bash
