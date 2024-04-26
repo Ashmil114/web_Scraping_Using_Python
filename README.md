@@ -1,6 +1,6 @@
 # Web Scraping Job Data with Beautiful Soup
 ## Overview
-This repository demonstrates how to use Python’s Beautiful Soup library to scrape job data from a website. We’ll extract job titles, company names, and locations and save the data in a CSV file.
+This repository demonstrates how to use Python’s Beautiful Soup library to scrape job data from a website. I'll extract job titles, company names, and locations and save the data in a CSV file.
 
 ## Prerequisites
 - Python 3.x installed
